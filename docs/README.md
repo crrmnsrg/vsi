@@ -4,9 +4,14 @@ a very short introduction
 ## 2025-29
 - [Pencil on paper](./2025-29/pencil-on-paper.md)
 - [Prints](./2025-29/prints.md)
-- [Zondag 25 oktober 2025, 15.12 uur](./zondag-25-oktober-2025-15-12-uur)
+- [Zondag 25 oktober 2025, 15.12 uur](./zondag-25-oktober-2025-15-12-uur.md)
+
 ## 2020-24
+
 ## 2015-19
+
 ## 2010-14
+
 ## 2005-09
+
 ## 2000-04
