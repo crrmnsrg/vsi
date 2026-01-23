@@ -1,5 +1,4 @@
-# vsi
-a very short introduction
+# a very short introduction
 
 ## 2025-29
 - [Pencil on paper](./2025-29/pencil-on-paper.md)
