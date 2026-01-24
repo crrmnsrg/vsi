@@ -42,3 +42,5 @@ A very short introduction to the art of Reg Carremans / crrmnsrg.
 - [GF (Badkuip)](./2000-04/gf-badkuip.md)
 - [GF (Heup)](./2000-04/gf-heup.md)
 - [Kuras](./2000-04/kuras.md)
+
+© Copyright 2026 crrmnsrg, all rights reserved.
