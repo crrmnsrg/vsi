@@ -1,5 +1,7 @@
 # A very short introduction
 
+A very short introduction introduction to the art of Reg Carremans / crrmnsrg.
+
 ## 2025-29
 - [Pencil on paper](./2025-29/pencil-on-paper.md)
 - [Prints](./2025-29/prints.md)
