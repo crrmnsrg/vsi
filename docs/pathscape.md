@@ -22,7 +22,7 @@ Walks, canvas patchwork
 
 ![Pathscape](./assets/images/2010-14-pathscape-08.webp)
 
-![Pathscape](./assets/images/2010-14-pathscape-08.webp)
+![Pathscape](./assets/images/2010-14-pathscape-09.webp)
 
 ![Pathscape](./assets/images/2010-14-pathscape-10.webp)
 
