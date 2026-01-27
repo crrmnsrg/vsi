@@ -1,6 +1,6 @@
 # A very short introduction
 
-A very short introduction to the art of Reg Carremans / crrmnsrg.
+A very short introduction to the art of Reg Carremans.
 
 ## 2015-19
 - [Book-like product](./book-like-product.md)
