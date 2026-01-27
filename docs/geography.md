@@ -6,4 +6,10 @@ Viđey, Iceland
 
 Video documentation of action, muddy book
 
+![Geography](./assets/images/2010-14-geography-01.webp)
+
+![Geography](./assets/images/2010-14-geography-02.webp)
+
+![Geography](./assets/images/2010-14-geography.m4v)
+
 © Copyright 2026 crrmnsrg, all rights reserved.
