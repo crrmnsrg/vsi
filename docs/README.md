@@ -2,7 +2,7 @@
 
 A very short introduction to the art of Reg Carremans.
 
-On this website you can find a selection of my (walk-based) projects from 2000 to 2019.
+On this website you can find a selection of (walk-based) projects from 2000 to 2019.
 
 ## 2015-19
 - [Book-like product](./book-like-product.md)
