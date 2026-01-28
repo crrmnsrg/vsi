@@ -6,6 +6,8 @@ Hasselt, Belgium
 
 Mural
 
+*Making nothing from something.*
+
 ![Leftovers](./assets/images/2010-14-leftovers-01.webp)
 
 ![Leftovers](./assets/images/2010-14-leftovers-02.webp)
