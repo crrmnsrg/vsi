@@ -6,6 +6,8 @@ Berlin, Germany
 
 Book
 
+*There are too many / not enough artist books.*
+
 ![Book-like product](./assets/images/2015-19-book-like-product-01.webp)
 
 ![Book-like product](./assets/images/2015-19-book-like-product-02.webp)
