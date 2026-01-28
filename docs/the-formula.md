@@ -6,6 +6,8 @@ Hasselt, Belgium
 
 Oil on canvas
 
+*What have we learned today? – Piet Huysentruyt*
+
 ![The Formula](./assets/images/2010-14-the-formula-01.webp)
 
 ![The Formula](./assets/images/2010-14-the-formula-02.webp)
