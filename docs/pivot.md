@@ -4,7 +4,11 @@
 
 Brussels, Belgium
 
-Walks, video, drawing, edited quote
+Walks, video
+
+*Who rules x commands the y:
+Who rules the y commands the z:
+Who rules the z commands x.*
 
 ![Pivot](./assets/images/2010-14-pivot.mp4)
 
