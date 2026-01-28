@@ -8,7 +8,7 @@ Oil on canvas
 
 *What have we learned today? – Piet Huysentruyt*
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
   <img src="./assets/images/2010-14-the-formula-01.webp" style="width: 300px; height: auto;">
   <img src="./assets/images/2010-14-the-formula-02.webp" style="width: 300px; height: auto;">
   <img src="./assets/images/2010-14-the-formula-03.webp" style="width: 300px; height: auto;">
