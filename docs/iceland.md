@@ -5,6 +5,14 @@
 Drawings on paper
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="./assets/images/2005-09-iceland-01.webp">
+  <img src="./assets/images/2005-09-iceland-02.webp">
+  <img src="./assets/images/2005-09-iceland-03.webp">
+  <img src="./assets/images/2005-09-iceland-04.webp">
+  <img src="./assets/images/2005-09-iceland-05.webp">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="./assets/images/2005-09-iceland-01.webp" style="width: 200px; height: auto;">
   <img src="./assets/images/2005-09-iceland-02.webp" style="width: 200px; height: auto;">
   <img src="./assets/images/2005-09-iceland-03.webp" style="width: 200px; height: auto;">
