@@ -6,6 +6,8 @@ Brussels, Belgium
 
 Pencil on paper
 
+*Quitting art is hard.*
+
 ![Drawings](./assets/images/2015-19-derwent-001-lamp.webp)
 
 ![Drawings](./assets/images/2015-19-derwent-002-zelfportret.webp)
