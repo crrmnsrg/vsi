@@ -4,7 +4,7 @@
 
 Rubik's cube, video
 
-<video width="320" height="240" controls loop="" muted="" autoplay="">
+<video width="" height="" controls loop="" muted="" autoplay="">
     <source src="./assets/images/2005-09-hellisheidi.mov"/>
 </video>
 
