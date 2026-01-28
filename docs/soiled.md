@@ -8,27 +8,27 @@ Video documentation of actions
 
 *Zand erover (Let bygones be bygones).*
 
-<video width="" height="" controls loop="" muted="" autoplay="">
+<video width="300" height="" controls loop="" muted="" autoplay="">
     <source src="./assets/images/2010-14-soiled-01.mov"/>
 </video>
 
-<video width="" height="" controls loop="" muted="" autoplay="">
+<video width="300" height="" controls loop="" muted="" autoplay="">
     <source src="./assets/images/2010-14-soiled-02.mov"/>
 </video>
 
-<video width="" height="" controls loop="" muted="" autoplay="">
+<video width="300" height="" controls loop="" muted="" autoplay="">
     <source src="./assets/images/2010-14-soiled-03.mov"/>
 </video>
 
-<video width="" height="" controls loop="" muted="" autoplay="">
+<video width="300" height="" controls loop="" muted="" autoplay="">
     <source src="./assets/images/2010-14-soiled-04.mov"/>
 </video>
 
-<video width="" height="" controls loop="" muted="" autoplay="">
+<video width="300" height="" controls loop="" muted="" autoplay="">
     <source src="./assets/images/2010-14-soiled-05.mov"/>
 </video>
 
-<video width="" height="" controls loop="" muted="" autoplay="">
+<video width="300" height="" controls loop="" muted="" autoplay="">
     <source src="./assets/images/2010-14-soiled-06.mov"/>
 </video>
 
