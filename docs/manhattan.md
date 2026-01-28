@@ -6,6 +6,8 @@ Manhattan, USA
 
 Walks, video, drawing
 
+*Going binary on a grid.*
+
 ![Manhattan](./assets/images/2010-14-manhattan-01.webp)
 
 ![Manhattan](./assets/images/2010-14-manhattan-02.webp)
