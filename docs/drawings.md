@@ -8,24 +8,16 @@ Pencil on paper
 
 *Quitting art is hard.*
 
-![Drawings](./assets/images/2015-19-derwent-001-lamp.webp)
-
-![Drawings](./assets/images/2015-19-derwent-002-zelfportret.webp)
-
-![Drawings](./assets/images/2015-19-derwent-003-vloer.webp)
-
-![Drawings](./assets/images/2015-19-derwent-004-koffie.webp)
-
-![Drawings](./assets/images/2015-19-derwent-008-auschwitz.webp)
-
-![Drawings](./assets/images/2015-19-derwent-009-abstract.webp)
-
-![Drawings](./assets/images/2015-19-derwent-013-kanal.webp)
-
-![Drawings](./assets/images/2015-19-derwent-016-deken.webp)
-
-![Drawings](./assets/images/2015-19-derwent-019-kanal.webp)
-
-![Drawings](./assets/images/2015-19-derwent-021-eyeflower.webp)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src="./assets/images/2015-19-derwent-002-zelfportret.webp" style="width: 300px; height: auto;">
+      <img src="./assets/images/2015-19-derwent-003-vloer.webp" style="width: 300px; height: auto;">
+      <img src="./assets/images/2015-19-derwent-004-koffie.webp" style="width: 300px; height: auto;">
+      <img src="./assets/images/2015-19-derwent-008-auschwitz.webp" style="width: 300px; height: auto;">
+      <img src="./assets/images/2015-19-derwent-009-abstract.webp" style="width: 300px; height: auto;">
+      <img src="./assets/images/2015-19-derwent-013-kanal.webp" style="width: 300px; height: auto;">
+      <img src="./assets/images/2015-19-derwent-016-deken.webp" style="width: 300px; height: auto;">
+      <img src="./assets/images/2015-19-derwent-019-kanal.webp" style="width: 300px; height: auto;">
+      <img src="./assets/images/2015-19-derwent-021-eyeflower.webp" style="width: 300px; height: auto;">
+</div>
 
 © Copyright 2026 crrmnsrg, all rights reserved.
