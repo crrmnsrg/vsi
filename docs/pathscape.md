@@ -8,7 +8,7 @@ Walks, canvas patchwork
 
 *Going Sideways.*
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
   <img src="./assets/images/2010-14-pathscape-01.webp" style="width: 300px; height: auto;">
   <img src="./assets/images/2010-14-pathscape-02.webp" style="width: 300px; height: auto;">
   <img src="./assets/images/2010-14-pathscape-03.webp" style="width: 300px; height: auto;">
