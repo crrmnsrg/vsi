@@ -4,7 +4,9 @@ June 2015
 
 Sachsische Schweiz, Germany
 
-Walks, mobile shop, photographic documentation of action
+Walks, mobile shop
+
+*Art supplies! Get your art supplies!*
 
 ![Malerweg](./assets/images/2015-19-malerweg-01.webp)
 
