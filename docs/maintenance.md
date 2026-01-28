@@ -6,6 +6,8 @@ Antwerp, Belgium
 
 Action, installation
 
+*Litter for litter.*
+
 ![Maintenance](./assets/images/2010-14-maintenance-01.webp)
 
 ![Maintenance](./assets/images/2010-14-maintenance-02.webp)
