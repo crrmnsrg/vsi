@@ -6,6 +6,8 @@ Belgium
 
 Walks, canvas patchwork
 
+*Going Sideways.*
+
 ![Pathscape](./assets/images/2010-14-pathscape-01.webp)
 
 ![Pathscape](./assets/images/2010-14-pathscape-02.webp)
