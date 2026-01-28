@@ -8,7 +8,7 @@ Pencil on paper
 
 *Quitting art is hard.*
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
       <img src="./assets/images/2015-19-derwent-002-zelfportret.webp" style="width: 300px; height: auto;">
       <img src="./assets/images/2015-19-derwent-003-vloer.webp" style="width: 300px; height: auto;">
       <img src="./assets/images/2015-19-derwent-004-koffie.webp" style="width: 300px; height: auto;">
