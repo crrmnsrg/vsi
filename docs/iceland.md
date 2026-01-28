@@ -4,7 +4,7 @@
 
 Drawings on paper
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
   <img src="./assets/images/2005-09-iceland-01.webp" style="width: 300px; height: auto;">
   <img src="./assets/images/2005-09-iceland-02.webp" style="width: 300px; height: auto;">
   <img src="./assets/images/2005-09-iceland-03.webp" style="width: 300px; height: auto;">
