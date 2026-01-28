@@ -8,16 +8,28 @@ Video documentation of actions
 
 *Zand erover (Let bygones be bygones).*
 
-![Soiled](./assets/images/2010-14-soiled-01.mov)
+<video width="320" height="240" controls loop="" muted="" autoplay="">
+    <source src="./assets/images/2010-14-soiled-01.mov"/>
+</video>
 
-![Soiled](./assets/images/2010-14-soiled-02.mov)
+<video width="320" height="240" controls loop="" muted="" autoplay="">
+    <source src="./assets/images/2010-14-soiled-02.mov"/>
+</video>
 
-![Soiled](./assets/images/2010-14-soiled-03.mov)
+<video width="320" height="240" controls loop="" muted="" autoplay="">
+    <source src="./assets/images/2010-14-soiled-03.mov"/>
+</video>
 
-![Soiled](./assets/images/2010-14-soiled-04.mov)
+<video width="320" height="240" controls loop="" muted="" autoplay="">
+    <source src="./assets/images/2010-14-soiled-04.mov"/>
+</video>
 
-![Soiled](./assets/images/2010-14-soiled-05.mov)
+<video width="320" height="240" controls loop="" muted="" autoplay="">
+    <source src="./assets/images/2010-14-soiled-05.mov"/>
+</video>
 
-![Soiled](./assets/images/2010-14-soiled-06.mov)
+<video width="320" height="240" controls loop="" muted="" autoplay="">
+    <source src="./assets/images/2010-14-soiled-06.mov"/>
+</video>
 
 © Copyright 2026 crrmnsrg, all rights reserved.

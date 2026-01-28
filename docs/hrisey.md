@@ -8,6 +8,8 @@ Walks, video
 
 *A binary walk.*
 
-![Hrísey](./assets/images/2010-14-hrisey.mp4)
+<video width="320" height="240" controls loop="" muted="" autoplay="">
+    <source src="./assets/images/2010-14-hrisey.mp4"/>
+</video>
 
 © Copyright 2026 crrmnsrg, all rights reserved.

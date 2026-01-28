@@ -12,6 +12,8 @@ Video documentation of action, muddy book
 
 ![Geography](./assets/images/2010-14-geography-02.webp)
 
-![Geography](./assets/images/2010-14-geography.m4v)
+<video width="320" height="240" controls loop="" muted="" autoplay="">
+    <source src="./assets/images/2010-14-geography.m4v"/>
+</video>
 
 © Copyright 2026 crrmnsrg, all rights reserved.
