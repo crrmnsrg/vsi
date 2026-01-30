@@ -10,7 +10,7 @@ Walks, video
 Who rules the y commands the z:
 Who rules the z commands x.*
 
-<video width="auto" height="auto" controls loop="" muted="" autoplay="">
+<video style="max-width:100%;height:auto;" controls loop="" muted="" autoplay="">
     <source src="./assets/images/2010-14-pivot.mp4"/>
 </video>
 

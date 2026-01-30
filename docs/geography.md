@@ -12,7 +12,7 @@ Video documentation of action, muddy book
 
 ![Geography](./assets/images/2010-14-geography-02.webp)
 
-<video width="auto" height="auto" controls loop="" muted="" autoplay="">
+<video style="max-width:100%;height:auto;" controls loop="" muted="" autoplay="">
     <source src="./assets/images/2010-14-geography.m4v"/>
 </video>
 

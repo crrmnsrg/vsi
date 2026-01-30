@@ -8,7 +8,7 @@ Walks, video
 
 *A binary walk.*
 
-<video width="auto" height="auto" controls loop="" muted="" autoplay="">
+<video style="max-width:100%;height:auto;" controls loop="" muted="" autoplay="">
     <source src="./assets/images/2010-14-hrisey.mp4"/>
 </video>
 
