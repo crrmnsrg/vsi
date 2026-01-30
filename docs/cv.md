@@ -5,7 +5,7 @@ Artistic cv for the period 2000 to 2019.
 ## Residenties
 
 - *Ágúst Residency*, 7-14 augustus 2017, Borgarfjörður, Ijsland
-- *AIR Berlin Alexanderplatz**, april - juli 2015, Berlijn, Duitsland
+- *AIR Berlin Alexanderplatz*, april - juli 2015, Berlijn, Duitsland
 - *AIR Antwerpen*, januari - juni 2014, Antwerpen
 - *VONK*, maart 2011 - februari 2013, Hasselt
 - *Gamli Skóli*, mei 2012, Hrísey, Ijsland
