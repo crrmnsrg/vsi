@@ -1,8 +1,8 @@
 # A very short introduction
 
-A very short introduction to the art of Reg Carremans.
+A very short introduction to the art of [Reg Carremans](https://www.regcarremans.com).
 
-On this website you can find a selection of (walk-based) projects from 2000 to 2019.
+On this website you can find a selection of (walk-based) projects from 2000 to 2019 and a [cv](cv.md).
 
 ## 2015-19
 - [Book-like product](./book-like-product.md)
